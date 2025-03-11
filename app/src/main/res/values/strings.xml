@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">ProjektZaliczeniowy</string>
+    <string name="new_user_singup">No Account? <b>Go to SingUp</b></string>
+    <string name="back_button_desc">Go back</string>
+</resources>
