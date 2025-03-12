@@ -19,9 +19,9 @@ Designed for book collectors and enthusiasts who need an easy way to organize th
 
 ## 🛠 Technologies Used
 
-- ✦Programming Language: Kotlin
-- ✦Environment: Android Studio
-- ✦Database: Firebase
+- Programming Language: Kotlin
+- Environment: Android Studio
+- Database: Firebase
 
 ## 🔗 App Flow
 
