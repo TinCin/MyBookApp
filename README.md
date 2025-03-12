@@ -6,12 +6,12 @@ The Book Cataloging App is a mobile tool designed for users who want to easily m
 
 ## ✨ Features
 
-✅ Login & Registration – Users can create accounts and log in using Firebase.
-✅ Add Books – Enter book details such as title, author, and publication year.
-✅ Cover Gallery – Upload and manage book cover images.
-✅ Browse Library – View a list of books with essential details.
-✅ Search & Filter – Find books by title, author, or publication year. (Optional)
-✅ Edit & Delete – Modify or remove book entries. (Optional)
+-✅ Login & Registration – Users can create accounts and log in using Firebase./n
+-✅ Add Books – Enter book details such as title, author, and publication year.
+-✅ Cover Gallery – Upload and manage book cover images.
+-✅ Browse Library – View a list of books with essential details.
+-✅ Search & Filter – Find books by title, author, or publication year. (Optional)
+-✅ Edit & Delete – Modify or remove book entries. (Optional)
 
 ## 🎯 Target Audience
 
